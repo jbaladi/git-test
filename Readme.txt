@@ -5,3 +5,4 @@
 "Really?"
 "Test to test" 
 "Kdiff3 Merge Tool Added" 
+"Added something from slave branch" 
