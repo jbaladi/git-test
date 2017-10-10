@@ -6,4 +6,4 @@
 "Test to test" 
 "Kdiff3 Merge Tool Added" 
 "Added something from slave branch" 
-"Added change in Master differing from slave" 
+"Added change in Master differing from slave"
