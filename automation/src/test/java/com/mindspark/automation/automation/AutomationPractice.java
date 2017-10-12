@@ -64,4 +64,12 @@ public class AutomationPractice {
 		  WebElement searchButton=driver.findElement(By.xpath("//button[@name=\"submit_search\"]"));
 		  searchButton.click();
 	  }
+	//This verifies, if items can be added to cart
+	@Test
+		public void CartTest4()
+		{
+			driver.get("http://automationpractice.com/index.php?id_product=1&controller=product");
+			WebElement addToCart=driver.findElement(By.className("exclusive"));
+			addToCart.click();
+		}
 }

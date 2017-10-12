@@ -5,7 +5,7 @@
     <classes>
       <class name="com.mindspark.automation.automation.AutomationPractice">
         <methods>
-          <include name="RegisterTest2"/>
+          <include name="CartTest4"/>
           <include name="begin"/>
           <include name="teardown"/>
         </methods>
