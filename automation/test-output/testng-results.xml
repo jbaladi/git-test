@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26603" started-at="2017-10-12T17:06:33Z" finished-at="2017-10-12T17:07:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26603" started-at="2017-10-12T17:06:33Z" finished-at="2017-10-12T17:07:00Z">
+      <class name="com.mindspark.automation.automation.AutomationPractice">
+        <test-method status="PASS" signature="begin()[pri:0, instance:com.mindspark.automation.automation.AutomationPractice@51efea79]" name="begin" is-config="true" duration-ms="8198" started-at="2017-10-12T10:06:33Z" finished-at="2017-10-12T10:06:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- begin -->
+        <test-method status="PASS" signature="RegisterTest2()[pri:0, instance:com.mindspark.automation.automation.AutomationPractice@51efea79]" name="RegisterTest2" duration-ms="6371" started-at="2017-10-12T10:06:42Z" finished-at="2017-10-12T10:06:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterTest2 -->
+        <test-method status="PASS" signature="SearchTest3()[pri:0, instance:com.mindspark.automation.automation.AutomationPractice@51efea79]" name="SearchTest3" duration-ms="4693" started-at="2017-10-12T10:06:48Z" finished-at="2017-10-12T10:06:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTest3 -->
+        <test-method status="PASS" signature="SignOnTest1()[pri:0, instance:com.mindspark.automation.automation.AutomationPractice@51efea79]" name="SignOnTest1" duration-ms="5515" started-at="2017-10-12T10:06:53Z" finished-at="2017-10-12T10:06:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignOnTest1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.mindspark.automation.automation.AutomationPractice@51efea79]" name="teardown" is-config="true" duration-ms="1802" started-at="2017-10-12T10:06:58Z" finished-at="2017-10-12T10:07:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.mindspark.automation.automation.AutomationPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
